@@ -1,3 +1,16 @@
-html
+
+/*html
 {background-color:orange;
+}=======*/
+
+
+.box{
+	width: 100px;
+	height: 100px;
+	background-color: blue;
 }
+
+body {
+  background-color: green;
+}
+
